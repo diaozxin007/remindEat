@@ -36,4 +36,6 @@ node remindEat.js
 
 扫码登录以后，对方应该不会忘记吃饭了。
 
+![wxbot](http://xilidou.oss-cn-beijing.aliyuncs.com/img/wxbot.jpg?x-oss-process=image/resize,p_40)
+
 谢谢大家
