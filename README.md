@@ -10,7 +10,9 @@
 git clone https://github.com/diaozxin007/remindEat
 ```
 
-修改 config/default.json 里面的 'toName' 为要提醒人的备注。
+修改 config/default.json 里面的 'toName' 为要提醒人的备注名称。
+
+然后：
 
 ```shell
 cd remindEat
@@ -30,7 +32,7 @@ npm install
 node remindEat.js
 ```
 
-如果在 `ubuntu` 上启动报错缺少包，可以参考[github](https://github.com/GoogleChrome/puppeteer/blob/master/docs/troubleshooting.md)
+如果在 `ubuntu` 上启动报错缺少包，可以参考[puppeteer/docs/troubleshooting.md](https://github.com/GoogleChrome/puppeteer/blob/master/docs/troubleshooting.md)
 
 扫码登录以后，对方应该不会忘记吃饭了。
 
