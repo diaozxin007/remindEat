@@ -22,7 +22,7 @@ async function onLogin (user) {
     //remindEat();
 
     //登陆后创建定时任务
-    schedule.setSchedule('perday','0 18 17,23 * * *',()=>{
+    schedule.setSchedule('perday','0 0 12,19 * * *',()=>{
         console.log('你的贴心小助理开始工作啦！')
         remindEat();
     })
