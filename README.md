@@ -2,7 +2,7 @@
 
 为了解决这个问题，我写了一个微信机器人到点就提醒他吃饭。
 
-[github](https://github.com/diaozxin007/remindEat)
+[github地址](https://github.com/diaozxin007/remindEat)
 
 使用方法
 
@@ -32,7 +32,7 @@ npm install
 node remindEat.js
 ```
 
-如果在 `ubuntu` 上启动报错缺少包，可以参考[puppeteer/docs/troubleshooting.md](https://github.com/GoogleChrome/puppeteer/blob/master/docs/troubleshooting.md)
+如果在 `ubuntu` 上启动报错缺少包，可以参考 [puppeteer/docs/troubleshooting.md](https://github.com/GoogleChrome/puppeteer/blob/master/docs/troubleshooting.md)
 
 扫码登录以后，对方应该不会忘记吃饭了。
 
